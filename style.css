@@ -1,0 +1,45 @@
+
+
+.content {
+  width: 70%;
+  margin: auto;
+}
+
+#logo{
+  float: left;
+  height: 45px;
+  width: 45px;
+  margin-right: 15px;
+}
+
+#delicious {
+  font-size: 35px;
+  font-family: 'Yellowtail', cursive;
+  font-weight: bold;
+  line-height: 32px;
+}
+
+p {
+  height: 45px;
+  width: 270px;
+  font-family: 'Bubbler One', sans-serif;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.link-icon{
+  float: right;
+  margin: 23px 1px;
+}
+
+#rss-icon {
+  margin-left: 10px;
+}
+
+#grey-bar {
+  width: 70%;
+  height: 10px;
+  background-color: grey;
+  margin: auto;
+  margin-top: 20px;
+}
