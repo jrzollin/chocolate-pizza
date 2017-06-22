@@ -19,12 +19,13 @@
   line-height: 32px;
 }
 
-p {
+#header {
   height: 45px;
   width: 270px;
   font-family: 'Bubbler One', sans-serif;
   display: inline-block;
   font-size: 12px;
+  color: black;
 }
 
 .link-icon{
@@ -36,10 +37,38 @@ p {
   margin-left: 10px;
 }
 
-#grey-bar {
+.grey-bar {
   width: 70%;
   height: 10px;
   background-color: grey;
   margin: auto;
   margin-top: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Arya', sans-serif;
+  height: 50px;
+  line-height: 50px;
+  margin-bottom: 0px;
+}
+
+#under-h1 {
+  display: inline-block;
+  margin: 0px;
+  font-size: 15px;
+  color: grey;
+}
+
+#print {
+  display: inline-block;
+  margin: 0px;
+  font-size: 15px;
+  color: grey;
+  float: right;
+}
+
+#chocolate-pizza {
+  width: 100%;
+  margin-top: 30px;
 }
