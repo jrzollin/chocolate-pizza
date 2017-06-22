@@ -72,3 +72,11 @@ h1 {
   width: 100%;
   margin-top: 30px;
 }
+
+.instructions {
+  text-indent: 30px;
+  font-size: 20px;
+  font-family: Georgia, serif;
+  margin-top: 30px;
+  color: grey;
+}
