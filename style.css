@@ -92,3 +92,86 @@ h1 {
   margin: 35px 40px;
   list-style-type: none;
 }
+
+.lined-out {
+  text-decoration: line-through;
+}
+
+#line-1 {
+  border: 1px solid lightgrey;
+  width: 69%;
+  margin: auto;
+  margin-bottom: 1px;
+}
+
+#line-2 {
+  border: 1px solid lightgrey;
+  width: 68.5%;
+  margin: auto;
+  margin-bottom: 1px;
+}
+
+#line-3 {
+  border: 1px solid lightgrey;
+  width: 68%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+#vanessa {
+  float: left;
+  margin-right: 15px;
+  display: inline-block;
+}
+
+#name {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+#blogger {
+  font-size: 18px;
+  width: 650px;
+  display: inline-block;
+}
+
+#share {
+  font-size: 22px;
+  display: inline-block;
+  width: 200px;
+  height: 50px;
+  color: white;
+  background-color: #c76c20;
+  text-align: center;
+  line-height: 50px;
+  float: right;
+  font-family: 'Arya', sans-serif;
+}
+
+#divider {
+  margin: auto;
+  margin-top: 75px;
+  width: 70%;
+}
+
+.grey-line {
+  border: 1px solid lightgrey;
+  width: 47.5%;
+  display: inline-block;
+  vertical-align: 70%;
+}
+
+#small-logo {
+  display: inline-block;
+}
+
+#footer {
+  width: 70%;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  color: grey;
+}
