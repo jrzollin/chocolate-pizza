@@ -93,7 +93,9 @@ h1 {
   list-style-type: none;
 }
 
-input[type='checkbox']:checked + label{  text-decoration: line-through;}
+input[type='checkbox']:checked + label{
+  text-decoration: line-through;
+}
 
 #line-1 {
   border: 1px solid lightgrey;
